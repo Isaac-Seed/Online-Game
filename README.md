@@ -1,2 +1,2 @@
-# Online-Game —— 人情世故
+# Online-Game —— Worldly Wisdom
 A light weighted online game made with unity. Online part is implemented by "Mirror".
